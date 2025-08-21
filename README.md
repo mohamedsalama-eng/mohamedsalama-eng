@@ -1,1 +1,1 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://felipeelia.com/br/wp-content/uploads/2023/08/github-profile-felipeelia.png" width="952" height="695">
+
