@@ -33,8 +33,7 @@
 <p>
  </br>
 
-<a href="mailto:mahmoudkhattab333999@gmail.com">
-<!-- <a href="mailto:mohamedsalama12301@gmail.com"> -->
+<a href="mailto:mohamedsalama12301@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohamedsalamaibrahim">
